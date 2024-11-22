@@ -1,11 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://media.discordapp.net/attachments/1298754802536419338/1309463891855675452/file-l6HcEEE2v13frmoHR2MoSYZK.png?ex=6741acc8&is=67405b48&hm=65be27d0e95a0cb2a6e1eb9e88716472a47a28cdb7c9935775ff507694624517&=&format=webp&quality=lossless&width=1222&height=1222" alt="Profile Image" width="150" height="150" style="margin-right: 20px;"/>
+<img src="https://media.discordapp.net/attachments/1298754802536419338/1309463891855675452/file-l6HcEEE2v13frmoHR2MoSYZK.png?ex=6741acc8&is=67405b48&hm=65be27d0e95a0cb2a6e1eb9e88716472a47a28cdb7c9935775ff507694624517&=&format=webp&quality=lossless&width=1222&height=1222" alt="Profile Image" width="150" height="150" style="margin-right: 20px;"/>
 
-  <div>
-    ## Hi 👋, I'm Rum  
-    A passionate front-end developer focused on creating visually appealing and functional user experiences.
-  </div>
-</div>
+## Hi 👋, I'm Rum  
+  A Computer Science Student exploring what computers are capable of.
 
 
 ---

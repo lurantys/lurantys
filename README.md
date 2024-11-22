@@ -19,7 +19,7 @@
 ---
 
 ### 📫 Let's Connect:
-- 📧 [Email](mailto:your_email@example.com)
+
 
 ---
 

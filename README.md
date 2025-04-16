@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1216812450259927151/1361840614739808516/D4754472-74A8-40F7-BD7E-120338C5656F.png?ex=68003868&is=67fee6e8&hm=c89340e3a8cbc59bc7d440dfe07083affb77b739f22bad4fd663ba9b0dc0c1d5&=&format=webp&quality=lossless&width=1018&height=1120" alt="Profile Image" width="150" height="150" style="margin-right: 20px;"/>
+<img src="https://media.discordapp.net/attachments/1216812450259927151/1361840614739808516/D4754472-74A8-40F7-BD7E-120338C5656F.png?ex=68003868&is=67fee6e8&hm=c89340e3a8cbc59bc7d440dfe07083affb77b739f22bad4fd663ba9b0dc0c1d5&=&format=webp&quality=lossless&width=1018&height=1120" alt="Profile Image" width="300" height="300" style="margin-right: 20px;"/>
 
 ## Hi 👋, I'm Rum  
 A Computer Science Student exploring what computers are capable of.

@@ -4,6 +4,7 @@
 A Computer Science Student exploring what computers are capable of.
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lurantys&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### 🛠️ Languages and Tools:
 <div>

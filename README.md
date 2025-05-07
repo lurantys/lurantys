@@ -1,9 +1,10 @@
-
+<div align="center">
 
 ## Hi 👋, I'm Rum  
 A Computer Science Student exploring what computers are capable of.
 
 ---
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lurantys&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### 🛠️ Languages and Tools:
@@ -16,6 +17,4 @@ A Computer Science Student exploring what computers are capable of.
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </div>
 
----
-
-
+</div>

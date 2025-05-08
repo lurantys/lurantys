@@ -1,5 +1,7 @@
 <div align="center">
-<img src=https://archives.bulbagarden.net/media/upload/8/83/Spr_B2W2_Cynthia.png"/>
+<p>
+  <img src=https://archives.bulbagarden.net/media/upload/8/83/Spr_B2W2_Cynthia.png"/>
+</p>
 ## Hi 👋, I'm Rum  
 A Computer Science Student exploring what computers are capable of.
 

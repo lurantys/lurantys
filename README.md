@@ -20,6 +20,6 @@ A Computer Science Student exploring what computers are capable of.
 </div>
 
 </div>
-<p align="right">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff71e15-a6f4-44ef-955c-99c78d959c44/dfk1m8a-a3a123d5-a2d1-45c1-8dab-56373d12f962.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBmZjcxZTE1LWE2ZjQtNDRlZi05NTVjLTk5Yzc4ZDk1OWM0NFwvZGZrMW04YS1hM2ExMjNkNS1hMmQxLTQ1YzEtOGRhYi01NjM3M2QxMmY5NjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HTXbfI279Bzk4lvW4CzOp8uEsM2oeT87Zf7BpRNkMVw" width="48" height="48" alt="Hisuian Zoroark"/>
-</p>
+   <p align="right">
+     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff71e15-a6f4-44ef-955c-99c78d959c44/dfk1m8a-a3a123d5-a2d1-45c1-8dab-56373d12f962.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBmZjcxZTE1LWE2ZjQtNDRlZi05NTVjLTk5Yzc4ZDk1OWM0NFwvZGZrMW04YS1hM2ExMjNkNS1hMmQxLTQ1YzEtOGRhYi01NjM3M2QxMmY5NjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HTXbfI279Bzk4lvW4CzOp8uEsM2oeT87Zf7BpRNkMVw" width="48" height="48" alt="Hisuian Zoroark"/>
+   </p>

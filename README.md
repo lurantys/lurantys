@@ -21,6 +21,6 @@ A Computer Science Student exploring what computers are capable of.
 
 </div>
    <p>
-     <img  src="./urshifu.gif" width="48" height="48" alt="Hisuian Zoroark"/>
+     <img align="right" src="./urshifu.gif" width="48" height="48" alt="Hisuian Zoroark"/>
      <img align="left" src="./meow.gif" width ="48" height="48" alr="Bear">
    </p>

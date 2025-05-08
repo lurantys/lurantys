@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://archives.bulbagarden.net/media/upload/8/83/Spr_B2W2_Cynthia.png" />
+    <img src="https://archives.bulbagarden.net/media/upload/5/59/Spr_B2W2_Wallace.png" />
   <h2>Hi 👋, I'm Rum</h2>
   <p>A Computer Science Student exploring what computers are capable of.</p>
 

@@ -20,7 +20,8 @@ A Computer Science Student exploring what computers are capable of.
 </div>
 
 </div>
-   <p>
-     <img align="right" src="./urshifu.gif" width="48" height="48" alt="Hisuian Zoroark"/>
-     <img align="left" src="./meow.gif" width ="48" height="48" alr="Bear">
-   </p>
+<p>
+  <img align="right" src="https://raw.githubusercontent.com/lurantys/lurantys/main/urshifu.gif" width="48" height="48" alt="Urshifu"/>
+  <img align="left" src="https://raw.githubusercontent.com/lurantys/lurantys/main/meow.gif" width="48" height="48" alt="Meow"/>
+</p>
+

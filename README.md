@@ -7,7 +7,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lurantys&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/865523572730363955)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/865523572730363955)](https://discord.com/users/865523572730363955)
 
   <h3>🛠️ Languages and Tools:</h3>
   <div>

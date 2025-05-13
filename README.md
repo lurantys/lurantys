@@ -6,7 +6,7 @@
   <hr />
 
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/865523572730363955)idleMessage=Hello](https://discord.com/users/865523572730363955)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/865523572730363955idleMessage=Hello)](https://discord.com/users/865523572730363955)
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lurantys&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
